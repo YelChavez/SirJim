@@ -13,10 +13,13 @@ In your own words. I want to know how deep your knowledge is about the two compo
 In your own words. I want to know how deep your knowledge is about the two components in Python	
 1	What is the difference between list and dictionary?
 		-A list is a storage of different datatypes and you can access those by using indeces.
-		 Compared to a dictionary you can access values by using the keys for those values. Because in 			 dictionaries we can assign a value by using a strings, and that string will serve as our keys for 			 our dictionary.
+		 Compared to a dictionary you can access values by using the keys for those values. 
+		 Because in dictionaries we can assign a value by using a strings, and that string will 
+		 serve as our keys our dictionary.
 
 2	Which do you prefer and why?
-		-Dictionary, Because dictionaries allows you to assign a value for each key within a single 			 variable.
+		-Dictionary, Because dictionaries allows you to assign a value for each key within a single 			 
+		 variable.
 
 3	What area does list solve that dictionary doesn't and vice versa
 		-List have an order because of their indeces while dictionary doesn't.
@@ -64,6 +67,6 @@ In your own words. I want to know how deep your knowledge is about the two compo
             	 Li_comp = [x*2 for x in range(1,6)]
 			output: [2,4,6,8,10]
 		-Dictionary Comprehension
-		 (Just like in list comprehension, It helps us to manipulate our dictionary easily, but compared 			 to list, we can assign values for our keys)
+		 (Just like in list comprehension, It helps us to manipulate our dictionary easily, but compared)			 to list, we can assign values for our keys)
 		 
 		 
